@@ -48,6 +48,6 @@
     </category>
     <browse>
         <label>Features</label>
-        <path>/site/components/features</path>
+        <path>/site</path>
     </browse>
 </config>
